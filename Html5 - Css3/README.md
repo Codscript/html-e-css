@@ -1,2 +1,2 @@
-# Projeto htaml, css e javaScript Curso em video
+# Projeto html, css e javaScript Curso em video
 
